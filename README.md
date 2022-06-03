@@ -42,8 +42,8 @@
         </p>
         <p align="center">
           <a href="https://github.com/NasirUllahAman">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aswad98&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswad98&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NasirUllahAman&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NasirUllahAman&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
